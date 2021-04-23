@@ -1,0 +1,1 @@
+.\objects\startup_stm32f10x_hd.o: F:\BaiduNetdiskDownload\0-野火【F103开发板-指南者】光盘资料\A盘（资料盘）\3-程序源码\【固件库】STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\arm\startup_stm32f10x_hd.s
